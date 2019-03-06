@@ -22,4 +22,4 @@ The easiest way to run this project is to install the local-web-server from [Git
 This Project uses Mapbox you will need to get a [MapBox](https://www.mapbox.com/install/) API key.
 If you do not already have a MapBox account, go ahead and create one
 MapBox API is free to use (no need to provide any payment information)
-Look for these tags within main.js and dbhelper.js and replace it with your API Key `<your MAPBOX API KEY HERE>` .
+Look for these tags within main.js and restaurant_info.js and replace it with your API Key `<your MAPBOX API KEY HERE>` .
